@@ -2,6 +2,6 @@
 
 _Groupe S1-D1_
 
-VALENNE Nathan
-WILCZAK Lilian
-LANCHEC Robin
+- VALENNE Nathan
+- WILCZAK Lilian
+- LANCHEC Robin
