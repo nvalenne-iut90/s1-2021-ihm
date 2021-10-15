@@ -5,3 +5,5 @@ _Groupe S1-D1_
 - VALENNE Nathan
 - WILCZAK Lilian
 - LANCHEC Robin
+
+![Image Ecran Prototype](https://github.com/nvalenne-iut90/s1-2021-ihm/blob/main/doc/Ecran_Prototype_Accueil.png?raw=true)
