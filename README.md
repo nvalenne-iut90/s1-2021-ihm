@@ -40,4 +40,4 @@ Nous nous sommes réparti les taches de cette facon :
 
 ![Image Ecran Prototype](https://github.com/nvalenne-iut90/s1-2021-ihm/blob/main/doc/Ecran_Prototype_Accueil.png?raw=true)
 
-## Validation de nos pages web sur [W3C](doc/)
+## Validation de nos pages web sur [W3C](doc/validationW3C.odt)
