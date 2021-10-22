@@ -1,0 +1,122 @@
+body {
+    font-family: Verdana, sans-serif;
+    background: #f0f0f0;
+    overflow-x: hidden;
+    position:absolute;
+    left: 0;
+    right: 0;
+    background-size:100%; 
+}
+
+.nav-link:hover {
+    color: rgb(99, 226, 99);
+}
+
+col-9 {
+    display: flex;
+}
+
+.logoSynchronic {
+    position: relative;
+    margin-left: 45% ;
+    margin-right: 45%;
+    vertical-align: middle;
+
+}
+
+.navbar-expand {
+    width:100%;
+}
+
+.slide {
+    background-image:url(src/devant.jpeg);
+    filter: blur(3px);
+    z-index: -1;
+    height: 550px;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.navbar-nav li {
+    list-style: none;
+    display: inline-flex;
+    margin-left : 100px;
+}
+
+h2, h1, .textSAE{
+    text-align: left;
+    margin-left: 15%;
+}
+/*
+.ecoRapport {
+
+}*/
+
+.formulaireContact input, textarea, button{
+    display: block;
+    margin: 20px;
+}
+.formulaireContact label {
+    margin-top: 10px;
+    font-size: 16px;
+}
+
+.formulaireContact input, .formulaireContact textarea {
+    font-size: large;
+    height: 40px;
+    min-width: 60%;
+}
+
+.mainTitle {
+    font-size: 40px;
+    font-style: italic;
+    margin: 40px 0 40px 0;
+    text-align: center;
+}
+
+.piedDePage {
+    list-style: none;
+    padding: 10px;
+    color: white;
+    margin-top: 100px;
+}
+
+.textSAE ul {
+    list-style-type: none;
+    font-style: italic;
+}
+
+
+.produit h2{
+    color: darkred;
+    text-align: center;
+}
+
+.produit h4{
+    color: green;
+}
+
+.img_back {
+    background-image: url(src/entrepot.jpg);
+    height: 140px;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.reseaux {
+    width: 200px;
+    margin-left:45%;
+    margin-right: 45%;
+    margin-bottom: 25px; margin-top: 20px;
+
+}
+
+.img_prod {
+    float: right;
+    margin-left: 20px;
+    margin-bottom: 2px;
+}
+
+.produit p{
+    text-align: justify;
+}

@@ -1,0 +1,49 @@
+.titreSite{
+    color: white;
+    text-align: center;
+    background: #474749;
+    padding: 15px;
+    width: 100%;
+    margin: 10px 30px 10px 30px;
+    font-size: 35px;
+}
+.nav {
+    width: 100%;
+    background: #313133;
+    color: white;
+    text-align: center;
+    font-size: 25px;
+    padding: 40px;
+}
+
+.titre {
+    margin: 10px 0 10px 0;
+    width: 100%;
+    background: #474749;
+    color: white;
+    text-align: center;
+    font-size: 25px;
+    padding: 20px;
+}
+
+.text {
+    margin: 10px 10% 10px 10%;
+    width: 80%;
+    height: 500px;
+    background: #474749;
+    color: white;
+    text-align: center;
+    font-size: 25px;
+    padding: 20px;
+}
+
+.imageCompany {
+    margin: 0 25% 0 25%;
+    width: 50%;
+    background: #313133;
+    font-size: 20px;
+    padding-top: 80px;
+    color: white;
+    text-align: center;
+    height: 100px;
+}
