@@ -40,4 +40,6 @@ Nous nous sommes réparti les taches de cette facon :
 
 ![Image Ecran Prototype](https://github.com/nvalenne-iut90/s1-2021-ihm/blob/main/doc/Ecran_Prototype_Accueil.png?raw=true)
 
-## Validation de nos pages web sur [W3C](doc/validationW3C.odt)
+## Validation de nos pages web sur W3C : [ici](doc/validationW3C.odt)
+
+## Rapport économique de l'entreprise : [ici](doc/VALENNE_SAES106_D1_Synchronic.pdf)
